@@ -1,0 +1,14 @@
+c:\users\olle\documents\visual studio 2015\Projects\Plankshop\Plankshop\bin\Debug\Plankshop.exe.config
+c:\users\olle\documents\visual studio 2015\Projects\Plankshop\Plankshop\bin\Debug\Plankshop.exe
+c:\users\olle\documents\visual studio 2015\Projects\Plankshop\Plankshop\bin\Debug\Plankshop.pdb
+c:\users\olle\documents\visual studio 2015\Projects\Plankshop\Plankshop\bin\Debug\Plankshop.xml
+c:\users\olle\documents\visual studio 2015\Projects\Plankshop\Plankshop\obj\Debug\Plankshop.Form1.resources
+c:\users\olle\documents\visual studio 2015\Projects\Plankshop\Plankshop\obj\Debug\Plankshop.Resources.resources
+c:\users\olle\documents\visual studio 2015\Projects\Plankshop\Plankshop\obj\Debug\Plankshop.vbproj.GenerateResource.Cache
+c:\users\olle\documents\visual studio 2015\Projects\Plankshop\Plankshop\obj\Debug\Plankshop.exe
+c:\users\olle\documents\visual studio 2015\Projects\Plankshop\Plankshop\obj\Debug\Plankshop.xml
+c:\users\olle\documents\visual studio 2015\Projects\Plankshop\Plankshop\obj\Debug\Plankshop.pdb
+C:\Users\Olle\Documents\Visual Studio 2015\Projects\Plankshop\Plankshop\obj\Debug\Plankshop.vbprojResolveAssemblyReference.cache
+C:\Users\Olle\Documents\Visual Studio 2015\Projects\Plankshop\Plankshop\obj\Debug\Plankshop.LoginForm1.resources
+C:\Users\Olle\Documents\Visual Studio 2015\Projects\Plankshop\Plankshop\obj\Debug\Plankshop.boxAbout.resources
+C:\Users\Olle\Documents\Visual Studio 2015\Projects\Plankshop\Plankshop\obj\Debug\Plankshop.boxProperties.resources
